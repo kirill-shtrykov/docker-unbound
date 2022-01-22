@@ -19,6 +19,8 @@ RUN apk update && apk add \
 
 FROM alpine:3.15.0
 
+ENV UNBOUND_VERSION 1.14.0
+
 LABEL maintainer="Kirill Shtrykov" \
       org.opencontainers.image.version=${UNBOUND_VERSION} \
       org.opencontainers.image.title="kirillshtrykov/unbound" \
