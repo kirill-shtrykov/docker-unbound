@@ -26,4 +26,4 @@ If you find a bug or have an idea for a feature, feel free to write an
 
 ## See Also
 - Docker Hub: [kirillshtrykov/unbound](https://hub.docker.com/repository/docker/kirillshtrykov/unbound)
-- Github [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound)
+- Github: [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound)
