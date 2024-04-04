@@ -1,6 +1,6 @@
 FROM alpine:3.19.1 as builder
 
-ENV UNBOUND_VERSION 1.19.0
+ENV UNBOUND_VERSION 1.19.3
 
 RUN apk update && apk add \
     curl \
@@ -19,7 +19,7 @@ RUN apk update && apk add \
 
 FROM alpine:3.19.1
 
-ENV UNBOUND_VERSION 1.19.0
+ENV UNBOUND_VERSION 1.19.3
 
 LABEL maintainer="Kirill Shtrykov" \
       org.opencontainers.image.version=${UNBOUND_VERSION} \

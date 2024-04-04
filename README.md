@@ -7,7 +7,8 @@ This is unofficial Alpine image of [Unbound](https://nlnetlabs.nl/projects/unbou
 caching DNS resolver.
 
 ## Tags
-- [`1.19.0`, `latest`](https://github.com/kirill-shtrykov/docker-unbound/blob/main/Dockerfile)
+- [`1.19.3`, `latest`](https://github.com/kirill-shtrykov/docker-unbound/blob/main/Dockerfile)
+- [`1.19.0`](https://github.com/kirill-shtrykov/docker-unbound/blob/1.19.0/Dockerfile)
 - [`1.18.0`](https://github.com/kirill-shtrykov/docker-unbound/blob/1.18.0/Dockerfile)
 - [`1.17.1`](https://github.com/kirill-shtrykov/docker-unbound/blob/1.17.1/Dockerfile)
 - [`1.16.1-alpine`, `1.16.1`](https://github.com/kirill-shtrykov/docker-unbound/blob/1.16.1/Dockerfile)
